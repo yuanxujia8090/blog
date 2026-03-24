@@ -1,0 +1,29 @@
+- 开发
+	- warp - AI 命令行工具，平替 iterm2
+	- alfred5 - macOS 效率启动器，支持快捷搜索和工作流自动化
+	- bartender 5 - macOS 菜单栏图标管理工具，隐藏不常用的图标让菜单栏更清爽
+	- tower 可视化 git 分支管理工具
+	- uTools 各个混合工具，例如json格式化
+- brew
+	- tig - 终端下的 Git 日志可视化查看工具
+	- autoJump - 终端目录快速跳转工具，通过记忆常用路径实现智能跳转
+	- sccrcpy - 安卓投屏软件
+	- tree
+	-
+- 代理工具
+	- chralse - 网络抓包与代理调试工具，用于 HTTP/HTTPS 请求分析
+	- proxyMan - macOS 平台强大的网络抓包与 API 调试工具
+	- keepingYourAwake 防止系统休眠
+	-
+-
+- 写作
+	- 幕布 - 极简大纲笔记工具，支持一键生成思维导图
+	- logseq - 本地的基于日期的markdown 软件
+	- notion - All-in-one 笔记与协作工具，支持数据库、看板等多种内容组织形式
+	- macdown - macOS 原生的 Markdown 编辑器，实时预览
+	-
+- 其他
+	- 文件对比  diffMerge - 跨平台的文件与目录对比合并工具
+	- 投屏
+		- android 设备投屏到mac  - scrcpy
+		- 鸿蒙设备投屏 - 使用 hdc 命令行工具实现鸿蒙设备屏幕投射到 Mac
