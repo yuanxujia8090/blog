@@ -1,0 +1,20 @@
+# 常用配置
+
+
+# 命令默认切换目录
+cd /Users/用户名/Documents/working
+
+# 常用缩写
+alias code="open -a /Applications/Visual\ Studio\ Code.app"
+alias zed="open -a /Applications/Zed.app"
+alias sub="open -a /3/Sublime\ Text.app"
+alias cls="clear"
+alias tmuxc="tmux new -s"
+alias tmuxa="tmux a -t"
+
+
+# node 内存
+export NODE_OPTIONS=--max-old-space-size=5120
+
+# 设置默认 node version
+nvm use 22
